@@ -1,0 +1,35 @@
+.actions{
+    margin: 50px;
+    height: 47px;
+    width: max-content;
+}
+.btn {
+  color: #fff;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid #000;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+
+.btn span{
+  background-color: #446bd3;
+  vertical-align: bottom;
+  padding: 8px 11px;
+  box-shadow: inset -1px -1px 5px black;
+}
+.btn i{
+  color: #723a09;
+  background: linear-gradient(to top, #eb7b20, #face4c);
+  font-size: 28px;
+  padding-right: 6px;
+  padding-left: 2px;
+  border-left: 1px solid #000;
+}
+.btn > *{
+  display: inline-block;
+}
