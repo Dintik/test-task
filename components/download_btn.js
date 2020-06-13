@@ -1,4 +1,4 @@
-import styles from './download_btn.module.css'
+import styles from './download_btn.module.scss'
 
 
 
